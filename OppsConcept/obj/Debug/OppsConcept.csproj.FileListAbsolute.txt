@@ -1,0 +1,7 @@
+C:\Users\Sangr\source\repos\Working Projects\OppsConcept\OppsConcept\bin\Debug\OppsConcept.exe.config
+C:\Users\Sangr\source\repos\Working Projects\OppsConcept\OppsConcept\bin\Debug\OppsConcept.exe
+C:\Users\Sangr\source\repos\Working Projects\OppsConcept\OppsConcept\bin\Debug\OppsConcept.pdb
+C:\Users\Sangr\source\repos\Working Projects\OppsConcept\OppsConcept\obj\Debug\OppsConcept.csproj.AssemblyReference.cache
+C:\Users\Sangr\source\repos\Working Projects\OppsConcept\OppsConcept\obj\Debug\OppsConcept.csproj.CoreCompileInputs.cache
+C:\Users\Sangr\source\repos\Working Projects\OppsConcept\OppsConcept\obj\Debug\OppsConcept.exe
+C:\Users\Sangr\source\repos\Working Projects\OppsConcept\OppsConcept\obj\Debug\OppsConcept.pdb
